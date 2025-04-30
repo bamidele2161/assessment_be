@@ -1,6 +1,35 @@
-# NestJS + GraphQL + TypeORM + SQL
+# 🏢 Department Management Backend
 
-Use this repository as a template or resource for NestJS with GraphQL and TypeORM.
-Check out the video tutorial [here](https://www.youtube.com/watch?v=CSfZmyzQAG8&).
-[![NestJS GraphQL with TypeORM & SQL](https://github.com/stuyy/nestjs-graphql-typeorm/assets/25330491/935f8740-2f1b-4cc6-9275-5c62cf63ceb7)](https://www.youtube.com/watch?v=CSfZmyzQAG8&)
+A backend system built with **NestJS**, **GraphQL**, **TypeORM**, and **PostgreSQL** for managing departments and their sub-departments. The system supports **authentication**, **pagination**, and **secured CRUD operations**.
 
+---
+
+## 🚀 Features
+
+- User Registration & Login (JWT Authentication)
+- Create, Read, Update, Delete (CRUD) for Departments
+- Nested Sub-department Support
+- Pagination for Listing Departments
+- GraphQL Playground Support
+- Protected Routes with JWT
+
+---
+
+## 🧰 Tech Stack
+
+- **Framework:** NestJS
+- **API:** GraphQL (Code-first with `@nestjs/graphql`)
+- **ORM:** TypeORM
+- **Database:** PostgreSQL
+- **Authentication:** JWT
+
+---
+
+## 📦 Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/department-management-backend.git
+cd department-management-backend
+```
