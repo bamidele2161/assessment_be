@@ -30,6 +30,6 @@ A backend system built with **NestJS**, **GraphQL**, **TypeORM**, and **PostgreS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/department-management-backend.git
+git clone https://github.com/bamidele2161/assessment_be.git
 cd department-management-backend
 ```
